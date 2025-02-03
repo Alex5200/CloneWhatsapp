@@ -1,8 +1,28 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Для проверки Вашей квалификации просим выполнить простое тестовое задание: https://drive.google.com/file/d/1B7RVvqhYjMBFwW0S7BTfsb5HdwczX5yE/view?usp=sharing
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Время на выполнение задания: 5 дней
+
+
+По итогам выполнения задания будет выполнен конкурсный отбор кандидатов, успешно решивших задание.
+
+
+Результат выполнения задания просьба отправить на адрес hr@green-api.com в формате:
+
+
+=====================
+Тема: Тестовое задание на должность - Фронтенд разработчик React
+
+
+1. Ваше резюме - приложить файл pdf
+2. Ссылка на профиль в Телеграм для быстрой связи
+3. Ссылка на репозиторий github
+4. Ссылка на опубликованную в Интернете HTML-страницу
+5. Ссылка на скриншоты/видео-презентацию (желательно)
+=====================
+
+
+Это сообщение сформировано автоматически. Отвечать на него не нужно.
